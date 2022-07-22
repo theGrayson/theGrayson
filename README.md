@@ -4,7 +4,7 @@
 
 I'm Baran Turguter or you know **@theGrayson**.
 <p><em>Computer Engineering Graduate from <a href="https://bau.edu.tr">Bahcesehir University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br>Junior Software Developer at <a href="https://unitedpayment.com">United Payment</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </br>Software Developer at <a href="https://unitedpayment.com">United Payment</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ## Skills
